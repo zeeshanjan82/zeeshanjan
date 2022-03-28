@@ -4,3 +4,4 @@
 3. Run the command 'npm run build' locally.
 4. Run the command 'npm run export' locally.
 5. Run the command 'npm run deploy' locally which will deploy onto github pages.
+6. Ensure that you have the empty '.nojekyll' file in gh-pages git branch.
