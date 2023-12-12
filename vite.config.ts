@@ -18,6 +18,6 @@ export default defineConfig({
   ],
 
   build: {
-    outDir: './production/portal'
+    outDir: './production'
   }
 });
